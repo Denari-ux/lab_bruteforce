@@ -2,9 +2,6 @@
 
 Laboratório educacional seguro.
 Veja HELP.md para detalhes.
-🦅🔥 Show! Vamos fechar o pacote bonito: documentação completa, help embutido, instruções de instalação e um repositório GitHub pronto pra você publicar. Vou montar tudo dentro da pasta e te entregar em `.zip`.
-
----
 
 # Estrutura final do projeto
 
